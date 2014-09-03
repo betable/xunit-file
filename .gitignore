@@ -1,2 +1,4 @@
-node_modules
-xunit-file.iml
+*.node
+*.o
+.lock-wscript
+build
